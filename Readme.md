@@ -2,7 +2,7 @@
 
 ---
 # Aufgabe
-[![GitHub Classroom Workflow](https://github.com/helsoc7/sql-initial/actions/workflows/classroom.yml/badge.svg)](https://github.com/helsoc7/sql-initial/actions/workflows/classroom.yml) [![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions) 
+[![GitHub Classroom Workflow](https://github.com/test-23-07/sql-create/actions/workflows/classroom.yml/badge.svg)](https://github.com/test-23-07/sql-create/actions/workflows/classroom.yml) [![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions) 
 
 In dieser ersten kleinen Mini SQL-Aufgabe erstellt ihr ein SQL-Skript für SQLite, das eine Tabelle mit zwei Spalten erstellen soll. 
  Folgt bitte genau den Anweisungen. Unter Hilfe findet ihr Links, die mit dem Wort Spickzettel markiert sind. Benutzt diese gerne bei Bedarf, falls ihr nicht weiterkommt. 
